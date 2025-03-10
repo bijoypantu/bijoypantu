@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bijoypantu
+- 👋 Hi, I’m Bijoy Pantu
 - 👀 I’m interested in the field of Data Science
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me: bijoypantu176@gmail.com
