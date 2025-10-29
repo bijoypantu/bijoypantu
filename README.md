@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bijoy Pantu
 - 👀 I’m interested in the field of Data Analytics
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Python libraries
 - 📫 How to reach me: bijoypantu176@gmail.com
 
 <!---
