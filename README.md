@@ -110,9 +110,6 @@ class BijoyPantu:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bijoypantu&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bijoypantu&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bijoypantu&theme=tokyonight)
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bijoypantu&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="175"/>
