@@ -157,7 +157,7 @@ class BijoyPantu:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bijoy%20Pantu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bijoypantu/)
-[![Twitter](https://img.shields.io/badge/Twitter-@BijoyPantu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BijoyPantu)
+[![Twitter](https://img.shields.io/badge/Twitter-@BijoyPantu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BijoyPantu12)
 [![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/bijoy.pantu/vizzes)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Bijoy1206-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Bijoy1206/)
 [![Gmail](https://img.shields.io/badge/Gmail-bijoypantu176-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bijoypantu176@gmail.com)
