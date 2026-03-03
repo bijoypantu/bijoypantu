@@ -92,7 +92,7 @@ class BijoyPantu:
 
 | 🏆 Project | 📝 Description | 🔧 Stack |
 |:----------|:--------------|:--------|
-| [**🍵 Tea's Journey — Global Trade Analysis**](https://github.com/bijoypantu) | Analyzed global tea production & trade flows. Built Tableau dashboard highlighting exporters, importers & pricing disparities (volume vs. value). | `SQL` `Tableau` |
+| [**🍵 Tea's Journey — Global Trade Analysis**](https://github.com/bijoypantu/Tea-Journey-Around-the-World) | Analyzed global tea production & trade flows. Built Tableau dashboard highlighting exporters, importers & pricing disparities (volume vs. value). | `SQL` `Tableau` |
 | [**📱 Social Media Campaign Analysis**](https://github.com/bijoypantu/Social-Media-Campaign-Performance-Analysis) | Calculated KPIs (CTR, CPC, ROI) in SQL; visualized spend vs. revenue & sentiment correlation in Tableau. | `SQL` `Tableau` |
 | [**🛒 E-Commerce Data Warehouse**](https://github.com/bijoypantu/ecommerce-data-warehouse) | End-to-end data warehouse with ETL pipelines & schema design for e-commerce analytics. | `Python` `SQL` |
 | [**🏠 Staten Island Property Sales**](https://github.com/bijoypantu/Staten-Island-Property-Sales-Analysis) | Excel dashboard with Pivot Tables & slicers. Found 79% of sales were 1–2 family homes; Q2 was peak season. | `Excel` `SQL` |
@@ -108,11 +108,11 @@ class BijoyPantu:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bijoypantu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bijoypantu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="175"/>
+| Stats | Top Languages |
+|:-----:|:-------------:|
+| ![Bijoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bijoypantu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true&cache_seconds=86400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoypantu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400) |
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=bijoypantu&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" height="175"/>
 
